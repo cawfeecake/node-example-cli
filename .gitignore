@@ -1,0 +1,6 @@
+# https://github.com/github/gitignore
+
+# NODE #
+########
+
+node_modules/
